@@ -21,4 +21,4 @@ git add .
 
 git commit -m "My assignment submission"
 
-git push
+git push -u origin main
