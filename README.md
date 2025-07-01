@@ -5,7 +5,7 @@ Welcome! Please follow these steps to submit your code:
 
 1. Clone this repo using Git:
 
-git clone https://github.com/YOUR_USERNAME/student-submissions.git
+git clone https://github.com/YOUR_USERNAME/COSC-111.git
 
 2. Open your assigned folder (`student1`, `student2`, etc.)
 
@@ -14,5 +14,7 @@ git clone https://github.com/YOUR_USERNAME/student-submissions.git
 4. Stage, commit, and push:
 
 git add .
+
 git commit -m "My assignment submission"
+
 git push
