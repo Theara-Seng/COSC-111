@@ -13,8 +13,12 @@ git clone https://github.com/YOUR_USERNAME/COSC-111.git
 
 4. Stage, commit, and push:
 
+You have to be in the COSC-111
+
+git pull
+
 git add .
 
 git commit -m "My assignment submission"
 
-git push
+git push -u origin main
